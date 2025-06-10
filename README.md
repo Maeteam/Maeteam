@@ -12,4 +12,4 @@ I love to code stupid games, fun projects and important real life tools.
 Thats it i guess, dont wanna flood this readme lol
 <br/><br/>
 ### Enjoy my repositories, i hope you find them helpful!
-#### Contact me on Discord: xsistz
+> Contact me on Discord: xsistz
