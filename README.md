@@ -1,5 +1,5 @@
 # Hi there 👋
-I am a student learning programming, and cybersecurity.
+I am learning programming, and cybersecurity.
 <br/><br/>
 
 on my free time I code silly projects, or fun projects, but i like to code things that i enjoy.
