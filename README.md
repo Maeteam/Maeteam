@@ -11,7 +11,7 @@ I love to play a unique game called [Grey Hack](https://store.steampowered.com/a
 I mainly code in `Python`.
 <br/><br/>
 
-I love to code stupid games, fun projects and important real life tools.
+I love to code stupid games, and fun projects.
 <br/><br/>
 
 Thats it i guess, dont wanna flood this readme lol
